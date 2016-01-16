@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Spafinder Final Test">
+
+<test name = "Test - Perform click on About Me link">
+<classes>
+<class name = "com.spafinder.testcases.AboutMe" />
+</classes>
+</test>
+
+<test name = "Test - Create New Account">
+<classes>
+<class name = "com.spafinder.testcases.CreateAccount" />
+</classes>
+</test>
+
+<test name = "Test - Find and Book on Spafinder">
+<classes>
+<class name = "com.spafinder.testcases.FindAndBook_HomePage" />
+</classes>
+</test>
+
+<test name = "Test - Selected Country - UK">
+<classes>
+<class name = "com.spafinder.testcases.SelectCountry" />
+</classes>
+</test>
+
+<test name = "Test - Signup for News Letter">
+<classes>
+<class name = "com.spafinder.testcases.SignUpForNewsletter" />
+</classes>
+</test>
+
+</suite>

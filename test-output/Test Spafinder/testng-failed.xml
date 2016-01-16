@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Spafinder]">
+  <test name="Test - Perform click on About Me link(failed)">
+    <classes>
+      <class name="com.spafinder.testcases.AboutMe">
+        <methods>
+          <include name="browserClose"/>
+          <include name="aboutMe"/>
+          <include name="browserOpen"/>
+        </methods>
+      </class> <!-- com.spafinder.testcases.AboutMe -->
+      <class name="com.spafinder.testcases.CreateAccount">
+        <methods>
+          <include name="browserClose"/>
+          <include name="browserOpen"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.spafinder.testcases.CreateAccount -->
+    </classes>
+  </test> <!-- Test - Perform click on About Me link(failed) -->
+</suite> <!-- Failed suite [Test Spafinder] -->

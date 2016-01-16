@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Spafinder Final Test]">
+  <test name="Test - Create New Account(failed)">
+    <classes>
+      <class name="com.spafinder.testcases.CreateAccount">
+        <methods>
+          <include name="browserClose"/>
+          <include name="browserOpen"/>
+          <include name="createaccount"/>
+        </methods>
+      </class> <!-- com.spafinder.testcases.CreateAccount -->
+      <class name="com.spafinder.testcases.FindAndBook_HomePage">
+        <methods>
+          <include name="browserClose"/>
+          <include name="browserOpen"/>
+        </methods>
+      </class> <!-- com.spafinder.testcases.FindAndBook_HomePage -->
+      <class name="com.spafinder.testcases.SelectCountry">
+        <methods>
+          <include name="browserClose"/>
+          <include name="browserOpen"/>
+        </methods>
+      </class> <!-- com.spafinder.testcases.SelectCountry -->
+      <class name="com.spafinder.testcases.AboutMe">
+        <methods>
+          <include name="browserClose"/>
+          <include name="browserOpen"/>
+        </methods>
+      </class> <!-- com.spafinder.testcases.AboutMe -->
+      <class name="com.spafinder.testcases.SignUpForNewsletter">
+        <methods>
+          <include name="browserClose"/>
+          <include name="browserOpen"/>
+        </methods>
+      </class> <!-- com.spafinder.testcases.SignUpForNewsletter -->
+    </classes>
+  </test> <!-- Test - Create New Account(failed) -->
+</suite> <!-- Failed suite [Spafinder Final Test] -->

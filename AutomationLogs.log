@@ -1,0 +1,41 @@
+01/13/2016 07:47:45 rootLogger ==========================================================================================================
+01/13/2016 07:47:45 rootLogger Test Page is: ==> Discover Spas Near You with the Spafinder Wellness Gift Card Just S-T-A-R-T-E-D
+01/13/2016 07:47:45 rootLogger Test Method is: ==> aboutMe Just S-T-A-R-T-E-D
+01/13/2016 07:47:45 rootLogger ==========================================================================================================
+01/13/2016 07:47:52 rootLogger Exp Header is: About Us Act Header is: About Us
+01/13/2016 07:47:55 rootLogger ==========================================================================================================
+01/13/2016 07:47:55 rootLogger Test Method is: ==> aboutMe Just E-N-D-E-D
+01/13/2016 07:47:55 rootLogger ==========================================================================================================
+01/13/2016 07:52:47 rootLogger ==========================================================================================================
+01/13/2016 07:52:47 rootLogger Test Page is: ==> Discover Spas Near You with the Spafinder Wellness Gift Card Just S-T-A-R-T-E-D
+01/13/2016 07:52:47 rootLogger Test Method is: ==> createaccount Just S-T-A-R-T-E-D
+01/13/2016 07:52:47 rootLogger ==========================================================================================================
+01/13/2016 07:53:12 rootLogger We are in the page: Log In or Sign Up at Spafinder Wellness 365™
+01/13/2016 07:53:19 rootLogger User exist or check password requirements !!!
+01/13/2016 07:53:19 rootLogger User create un-successfully !!!
+01/13/2016 07:53:19 rootLogger ==========================================================================================================
+01/13/2016 07:53:19 rootLogger Test Method is: ==> createaccount Just E-N-D-E-D
+01/13/2016 07:53:19 rootLogger ==========================================================================================================
+01/13/2016 07:53:40 rootLogger ==========================================================================================================
+01/13/2016 07:53:40 rootLogger Test Page is: ==> Discover Spas Near You with the Spafinder Wellness Gift Card Just S-T-A-R-T-E-D
+01/13/2016 07:53:40 rootLogger Test Method is: ==> findAndBookOnSF Just S-T-A-R-T-E-D
+01/13/2016 07:53:40 rootLogger ==========================================================================================================
+01/13/2016 07:53:49 rootLogger ==========================================================================================================
+01/13/2016 07:53:49 rootLogger Test Method is: ==> findAndBookOnSF Just E-N-D-E-D
+01/13/2016 07:53:49 rootLogger ==========================================================================================================
+01/13/2016 07:54:07 rootLogger ==========================================================================================================
+01/13/2016 07:54:07 rootLogger Test Page is: ==> Discover Spas Near You with the Spafinder Wellness Gift Card Just S-T-A-R-T-E-D
+01/13/2016 07:54:07 rootLogger Test Method is: ==> selectCountry Just S-T-A-R-T-E-D
+01/13/2016 07:54:07 rootLogger ==========================================================================================================
+01/13/2016 07:54:07 rootLogger Before Click, URL is: http://www.spafinder.com/
+01/13/2016 07:54:15 rootLogger After click, Current URL is: http://www.spafinder.co.uk/
+01/13/2016 07:54:16 rootLogger ==========================================================================================================
+01/13/2016 07:54:16 rootLogger Test Method is: ==> selectCountry Just E-N-D-E-D
+01/13/2016 07:54:16 rootLogger ==========================================================================================================
+01/13/2016 07:54:35 rootLogger ==========================================================================================================
+01/13/2016 07:54:35 rootLogger Test Page is: ==> Discover Spas Near You with the Spafinder Wellness Gift Card Just S-T-A-R-T-E-D
+01/13/2016 07:54:35 rootLogger Test Method is: ==> newsLetterSignup Just S-T-A-R-T-E-D
+01/13/2016 07:54:35 rootLogger ==========================================================================================================
+01/13/2016 07:54:43 rootLogger ==========================================================================================================
+01/13/2016 07:54:43 rootLogger Test Method is: ==> newsLetterSignup Just E-N-D-E-D
+01/13/2016 07:54:43 rootLogger ==========================================================================================================
